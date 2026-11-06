@@ -29,3 +29,21 @@ h2
 {
     color: #4DB8FF;
 }
+
+nav
+{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a
+{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #4DB8FF;
+}
