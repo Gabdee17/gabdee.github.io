@@ -48,3 +48,12 @@ nav a:hover
 {
     color: #3ea6ff;
 }
+
+.project-card
+{
+    background-color: #1e1e1e;
+
+    padding: 20px;
+
+    border-radius: 10px;
+}
